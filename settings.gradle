@@ -1,0 +1,2 @@
+rootProject.name='WhoAreYouVoice'
+include ':app'
